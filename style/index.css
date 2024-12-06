@@ -90,3 +90,17 @@ p{
         color: red;
     }
 }
+
+.assignment .row .content{
+    min-height : 200px !important;
+    background-color: red !important;
+   padding: 20px;
+   margin:20px;
+   /* margin is from outside the border and padding is from inside */
+   
+    border: 2px solid blue;
+
+}
+.assignment .row .col-4{
+    border: 2px solid black;
+}
